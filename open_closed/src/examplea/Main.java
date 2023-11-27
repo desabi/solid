@@ -1,5 +1,5 @@
 package examplea;
-
+// fuente: chatgpt
 public class Main {
     public static void main(String[] args) {
         StandardProduct standardProduct = new StandardProduct("pencil", 3.0);
